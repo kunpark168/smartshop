@@ -5,5 +5,6 @@
     <color name="colorAccent">#FF4081</color>
 
     <!-- Custom color -->
-    <color name="color_splash">#0090ff</color>
+    <color name="color_switch_check">#0350f9</color>
+    <color name="color_switch_uncheck">#8b9bfc</color>
 </resources>
